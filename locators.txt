@@ -1,0 +1,7 @@
+XPath 
+
+//div[@class="home-top-section__left"]//div[@class = "button"]
+
+CSS
+
+div.home-top-section__left .button
