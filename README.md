@@ -8,3 +8,9 @@
 ```bash
 node totalAnimalsLegs.js
 ```
+
+### Attachments
+
+The result of running the code appears as follows.
+
+<img width="474" alt="Devico-Test-Task" src="https://user-images.githubusercontent.com/91348165/218273413-af26e322-5e7d-4d74-91f1-97c95cc48b08.png">
